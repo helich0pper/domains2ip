@@ -1,5 +1,5 @@
 # domains2ip
-Quickly change list of domains into IP addresses and with a pretty output
+Quickly change list of domains into IP addresses with a pretty output
 # Screenshots
 ## Usage
 ![Usage](https://github.com/helich0pper/domains2ip/blob/master/screenshots/usage.png) \
