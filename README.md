@@ -2,7 +2,7 @@
 Quickly change list of domains into IP addresses with a pretty output
 # Screenshots
 ## Usage
-![Usage](https://github.com/helich0pper/domains2ip/blob/master/screenshots/usage.png) \
+![Usage](https://github.com/helich0pper/domains2ip/blob/master/screenshots/usage.png)
 ## Test Run
 ![Test](https://github.com/helich0pper/domains2ip/blob/master/screenshots/test.png)
 # Note
