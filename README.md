@@ -1,7 +1,9 @@
 # domains2ip
-Quickly change list of domains into IP addresses
-# Note
-This uses dig to output a pretty report with color codes
+Quickly change list of domains into IP addresses with a pretty output
 # Screenshots
-![Usage](https://raw.githubusercontent.com/Helichopper/domains2ip/master/screenshots/usage.png) \
-![Test](https://raw.githubusercontent.com/Helichopper/domains2ip/master/screenshots/test.png)
+## Usage
+![Usage](https://github.com/helich0pper/domains2ip/blob/master/screenshots/usage.png)
+## Test Run
+![Test](https://github.com/helich0pper/domains2ip/blob/master/screenshots/test.png)
+# Note
+domains2ip uses dig DNS lookup utility
