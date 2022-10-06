@@ -46,8 +46,7 @@ GetIPReport () {
 			printf "${RED}Could not resolve!${NC}"
 	else
 		printf ${GREEN}$ret${NC}
-		printf "${1}\n\t" >> $3
-		printf "${ret}\n" >> $3
+		printf "${1}:${ret}\n" >> $3
 	fi
 }
 # Main
